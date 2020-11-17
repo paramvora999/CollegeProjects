@@ -1,0 +1,4 @@
+Descriptive :
+New Delhi Traffic data used to predict traffic concentration in popular areas. Results obtained used to suggest efficient energy usage, causing minimal pollution due to over-congestion of traffic by creating a prediction mechanism, calling upon the ExtraTressRegressor.
+
+Libraries : numpy, matplotlib.pyplot, sklearn.metrics, sklearn.ensemble

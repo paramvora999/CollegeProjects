@@ -1,0 +1,7 @@
+Descriptive :
+Test Projects created as a mechanism to demonstrate my abilities as a Full Stack Web Developer.
+Multiple projects completed as a freelancer, and while working at the Internships.
+Contributed to the completion the designing of the Haresh Aluminium Industries website, contributing to front-end, back-end (especially with integration into the interim DBMS), and cataloguing of products.
+Contributed as a part of the 'Creative Minds of AUK' Team for the website for Amiphoria 2019, 2020 for Amity University Kolkata.
+
+Example Frameworks -  Javascript, PHP, Bootstrap, jQuery, NodeJS, HTML, CSS, Flask, MySQL, JSP and others.   

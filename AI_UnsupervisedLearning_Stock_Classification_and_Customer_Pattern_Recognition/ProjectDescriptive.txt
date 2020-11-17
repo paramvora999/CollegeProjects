@@ -1,0 +1,7 @@
+Descriptive :
+Optimised Search and Selection implemented for a variety of operations for various stock data.
+Consumer Pattern Recognition using Mean-Shift Algorithm for Clustering of sales data. Engine also used to draw inference on data from Haresh Aluminium Industries. 
+Data procured from the development of an interim database, and tabulation of 36+ months of product sales data.
+Representative Data used for demonstrative purposes. Implemented of Haresh Aluminium Industries based Data, primarily.
+
+Libraries : numpy, pandas, datetime, json, sklearn, csv, sklearn.cluster
