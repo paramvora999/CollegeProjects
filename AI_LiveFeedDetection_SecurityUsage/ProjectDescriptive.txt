@@ -1,0 +1,5 @@
+Descriptive :
+Usage of cv2 and Haar Cascade files on Python to create Live Object Tracking, Live Eye Tracking, and Live Face Tracking functionalities.
+Usage in real-time for security enhancement of security levels, and theft protection via setting input feed as one from an arbitrarily chosen CCTV Camera stationed in either the showroom, or the godown owned by Haresh Aluminium Industries.
+
+Libraries : cv2, numpy

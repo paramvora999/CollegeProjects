@@ -1,0 +1,4 @@
+Descriptive :
+Robot Controller generated using Genetic Algorithms, which resembles the PacMan game. Area of action described in a text file ‘target.txt’ and can be set to virtually any maze or structure to train the robot controller for movement.
+
+Libraries : copy, random, functools, numpy, deap

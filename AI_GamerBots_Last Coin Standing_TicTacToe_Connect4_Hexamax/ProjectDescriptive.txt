@@ -1,0 +1,5 @@
+Descriptive : 
+Primary objective of working on these bots was to challenge myself in the practice of ML, and make bots so that I could trick my friends into never winning a game against me.  
+Usage of the easyAI library and its in-built functions to simulate the aforementioned games, and chart a course for the AI to participate in the game as a player.
+
+Libraries : numpy, easyAI

@@ -1,0 +1,4 @@
+Descriptive : 
+Run Quantopian based Pipelining on multiple portfolios on Energy Sector data pertaining to US Equity Prices for Energy based portfolios. Returns the pipelining of portfolio longs, shorts, and percent_differential, providing an analysis of trend in Energy Stock Pricing, and deciding which stocks to trade with. 
+
+Libraries : quantopian.pipeline, quantopian.pipeline.filters, quantopian.pipeline.data, quantopian.pipeline.factors

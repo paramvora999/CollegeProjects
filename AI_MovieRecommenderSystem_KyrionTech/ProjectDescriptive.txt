@@ -1,0 +1,6 @@
+Descriptive:
+Hackathon Project - Dataset of users, JSON for preference modelling, and other files provided by company.
+Usage of Pearson Score based metrics and ‘collaborative_filtering’ library for clustering of similar users.
+Based on a pre-defined rating system, movies ranked for each user defined in the provided data, and recommendations given in order of rank. 
+
+Libraries : argparse, json, numpy, compute_scores, collaborative_filtering

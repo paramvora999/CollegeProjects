@@ -1,0 +1,6 @@
+Descriptive:
+Analysis of the efficacy of a given bank's marketing strategy, and drawing conclusive results from the Predictive Modelling and Classification using XGBClassifier and RandomForestClassifier.
+Implementation of a series of proposed changes in the marketing strategy via a combination of efforts from ML Team and Business Development Team.
+Simulation of the resulting strategy in the same market conditions, and observation of noticeable improvements in the numbers.
+
+Libraries : pandas, numpy, matplotlib.pyplot, xgboost, sklearn.model_selection, sklearn.metrics, sklearn.ensemble 

@@ -1,0 +1,4 @@
+Descriptive : 
+Taken in input of self-attested data for prices of solar cell based commodities across local businesses in West Bengal, India, in combination with buffer numbers from across the country. Application of a Support Vector Regressor to create a Predictive Model for pricing structure in the near future, assuming continuous market trends. 
+
+Libraries : numpy, pandas, sklearn.svm, sklearn.metrics, sklearn.utils

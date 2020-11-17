@@ -1,0 +1,5 @@
+Descriptive :
+Created an Optical Character Recognition Engine using Neurolab Library and Numpy. Serves as a Character Recognition Engine for multiple forms of characters, from different scripts (English, Devanagari etc) based on Input Data.
+Works on a Feature Extraction based Training model, and a Supervised Learning based Testing model.
+
+Libraries : numpy, neurolab

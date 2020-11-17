@@ -1,0 +1,7 @@
+Descriptive :
+Image Classification and Flagging mechanism used to check each display picture uploaded by a user for their profile for inappropriate content.
+The guidelines for inappropriate content were arbitrarily defined by the company. Working on the creation a substantial set for the training and testing to be used in the model.
+Generation of a Tensorflow based Convolutional Neural Network which could learn from the available image dataset, and test that with each upcoming profile picture for every user using Reinforcement Learning and efficient sorting algorithms.
+Image data used from Tensorflow in-built library for demonstrative purposes. Agitechavids Project included database collection and work on that specific category map.
+
+Libraries : argparse, tensorflow

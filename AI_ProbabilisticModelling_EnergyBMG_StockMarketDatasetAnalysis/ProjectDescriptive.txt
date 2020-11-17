@@ -1,0 +1,7 @@
+Descriptive :
+Development of a Probabilistic Modelling Engine for current numbers of local energy businesses, and also testing the effects of creating a RE based, Smart Contract powered consumer markets.
+Testing using different Regression mechanisms to determine efficacy and success possibility of a RE Energy Market Business Model (employed by companies such as PowerLedger or BMG Project) on local areas, by twitching parameters of determination based on local numbers, such as available_electricity, average_cost_of_apparatus, technological_availability, system_maintenance.
+Self defined parametric analysis using HMM Modelling, and Multivariable Regression for model training from current numbers in Australia and USA, and testing on local numbers in Kolkata.
+Loading historical stock quotes from matplotlib package for this example code. Work done with pre-defined data for multiple portfolios.
+
+Libraries :  numpy, pandas, matplotlib.pyplot, hmmlearn.hmm, datetime, warnings

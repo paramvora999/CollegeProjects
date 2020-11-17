@@ -1,0 +1,4 @@
+Descriptive:
+Running a Monte Carlo Simulation of Portfolio Data belonging to Companies such as IBM, Apple, Cisco, and Amazon. Rendering result for optimised portfolio selection based on multiple parameters as described on the Portfolio.
+
+Libraries : numpy, pandas, matplotlib.pyplot

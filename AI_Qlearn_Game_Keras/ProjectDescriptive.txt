@@ -1,0 +1,4 @@
+Descriptive :
+Creating a game using Keras based on creating an automation engine to catch fruits into a basket using json based data manipulation. 
+
+Libraries : json, keras.models, keras.layers.core, keras.optimizers

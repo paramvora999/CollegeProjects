@@ -1,0 +1,7 @@
+Descriptive : 
+Takes written sample - Requires creating a Category Map - Results in a Classification facilitated by a Multinomial Naive Bayes Classifier. 
+Testing current code sample with an sklearn dataset for general purpose application. Used locally for Agitechavids Project and testing GRE Reading Comprehension passages. 
+Topic Modelling based upon a ‘gensim’ based Topic Modelling functionality. 
+
+
+Libraries : sklearn.naive_bayes, sklearn.feature_extraction.text, nltk.tokenize, nltk.corpus, nltk.snowball, gensim 
